@@ -6,7 +6,7 @@
 ########################################################################################
 
 # Clear workspace, install, and load packages ----
-rm(list=ls(all=TRUE))
+# rm(list=ls(all=TRUE))
 # install.packages("sf")
 # install.packages("ggpspatial")
 library(tidyverse)
